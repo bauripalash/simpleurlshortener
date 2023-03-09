@@ -1,6 +1,8 @@
 # Simple URL Shortener
 
-Source Code of the Code from the article of [Adventure Of Palash](https://palash.tk)
+## ⚠️ Doesn't work anymore! 
+
+Source Code of the Code from the article of [Adventure Of Palash](https://palashbauri.in)
 
 Tools Using : 
 
